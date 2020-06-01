@@ -9,3 +9,6 @@
 地址：https://start.spring.io/
 
 如图所示
+
+![](https://github.com/sanzhixiong19860117/SpringBoot/blob/master/day01/img/springboot1.jpg)
+
